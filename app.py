@@ -10,7 +10,7 @@ print("--- SISTEMA DE MONITORAMENTO DE RESERVATÓRIO ---")
 print("O nível do reservarório está: ")
 
 #Simulação com um valor definido no código
-#Você pode trocar para "1", "2", "4", etc., para testar cada regra
+#Você pode trocar para "1", "2", "4" e "5" para testar cada regra
 nivel_escolhido = "5"
 
 #Validação usando if, elif e else
